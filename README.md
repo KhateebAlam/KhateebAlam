@@ -2,46 +2,72 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:203a43&height=220&section=header&text=Khateeb%20Alam&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Building%20the%20Future%20with%20Code&descAlignY=55&descAlign=50"/>
 </p>
 
-<h3 align="center">🔥 Code Craftsman | 💻 DSA Warrior | 🚀 Future Software Engineer</h3>
+<h3 align="center">🚀 Full Stack Developer | 💻 DSA Enthusiast | ⚡ Future Software Engineer</h3>
 
 ---
 
-# ✨ Who Am I?
+## ✨ Who Am I?
 
-Hey there 👋  
-I'm **Khateeb Alam**, a Computer Science student passionate about building strong foundations in **Data Structures & Algorithms** and scalable software systems.
+Hey 👋 I'm **Khateeb Alam**, a passionate **Full Stack Developer** and Computer Science student focused on building scalable web applications and mastering Data Structures & Algorithms.
 
-I believe in:
+I combine:
 
-- 🧠 Mastering fundamentals
-- 🔁 Daily consistency
-- ⚡ Discipline over motivation
-- 🚀 Long-term growth mindset
+- 🔥 Practical development skills  
+- 🧠 Strong DSA fundamentals  
+- ⚡ Clean & optimized coding practices  
+- 🚀 Long-term engineering mindset  
 
-> "Small daily improvements lead to massive success."
-
----
-
-# 🎯 What I'm Focused On
-
-- 📌 Cracking top tech interviews  
-- 📚 Solving DSA problems daily  
-- 💻 Writing clean & optimized C++ code  
-- 🛠 Learning backend & system design  
+> “Consistency beats intensity.”
 
 ---
 
-# 🛠 My Tech Arsenal
+## 🛠 My Tech Stack
 
-## 🔥 Programming
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,git,github,linux,vscode" />
+### 🌐 Frontend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react" />
 </p>
 
+- HTML  
+- CSS  
+- JavaScript  
+- React.js  
+
 ---
 
-# 📊 GitHub Analytics
+### ⚙ Backend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,python" />
+</p>
+
+- Node.js  
+- Python  
+
+---
+
+### 🗄 Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
+
+- MongoDB  
+- MySQL  
+- SQL  
+
+---
+
+### 🛠 Tools & Version Control
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
+</p>
+
+- Git & GitHub  
+- VS Code  
+- Linux  
+
+---
+
+## 📊 GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=KhateebAlam&show_icons=true&theme=tokyonight" height="165"/>
@@ -54,44 +80,40 @@ I believe in:
 
 ---
 
-# 🏆 LeetCode Progress
+## 🏆 LeetCode Progress
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Baloo&ext=contest)
 
 ---
 
-# 🚀 Featured Journey
+## 🎯 Current Focus
 
-## 📘 Data Structures & Algorithms Repository
-
-Daily DSA problem solving in C++  
-Strong focus on:
-
-- Arrays
-- Recursion
-- Searching & Sorting
-- Time & Space Complexity
-- Pattern Logic Building
+- 📈 500+ DSA Problems
+- 💻 Building Full Stack Projects
+- 🧠 Improving Time & Space Complexity
+- 🏗 Learning Scalable Backend Architecture
+- 🚀 Preparing for Tech Interviews
 
 ---
 
-# 🔥 Current Mission
+## 💼 What I Bring
 
-- 📈 500+ DSA problems
-- 🧠 Master complexity analysis
-- 💼 Become interview-ready engineer
-- 🏗 Build scalable backend systems
+✔ Clean and maintainable code  
+✔ Strong problem-solving mindset  
+✔ Full-stack project experience  
+✔ Git workflow knowledge  
+✔ Continuous learning attitude  
 
 ---
 
-# 📬 Connect With Me
+## 📬 Connect With Me
 
-- 🔗 GitHub: https://github.com/KhateebAlam
-- 💼 LinkedIn: (Add here)
-- 📧 Email: (Add professional email)
+- 🔗 GitHub: https://github.com/KhateebAlam  
+- 💼 LinkedIn: (Add here)  
+- 📧 Email: (Add professional email)  
 
 ---
 
 <p align="center">
-  ⚡ "Consistency beats intensity."
+  🚀 "Building the Future with Code."
 </p>
