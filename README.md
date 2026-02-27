@@ -1,48 +1,97 @@
- <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=200&section=header&text=Khateeb%20Alam&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Building%20the%20Future%20with%20Code&descAlignY=55&descAlign=50"/>
+  <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:203a43&height=220&section=header&text=Khateeb%20Alam&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Building%20the%20Future%20with%20Code&descAlignY=55&descAlign=50"/>
 </p>
 
-<h3 align="center">🚀 Aspiring Software Engineer | DSA Enthusiast | C++ Programmer</h3>
+<h3 align="center">🔥 Code Craftsman | 💻 DSA Warrior | 🚀 Future Software Engineer</h3>
 
 ---
 
-## 👨‍💻 About Me
+# ✨ Who Am I?
 
-Computer Science student passionate about Data Structures & Algorithms and Backend Development.
+Hey there 👋  
+I'm **Khateeb Alam**, a Computer Science student passionate about building strong foundations in **Data Structures & Algorithms** and scalable software systems.
 
 I believe in:
-- Consistency over motivation
-- Long-term growth
-- Clean & scalable code
+
+- 🧠 Mastering fundamentals
+- 🔁 Daily consistency
+- ⚡ Discipline over motivation
+- 🚀 Long-term growth mindset
+
+> "Small daily improvements lead to massive success."
 
 ---
 
-## 🏆 LeetCode Stats
+# 🎯 What I'm Focused On
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Baloo)
+- 📌 Cracking top tech interviews  
+- 📚 Solving DSA problems daily  
+- 💻 Writing clean & optimized C++ code  
+- 🛠 Learning backend & system design  
 
 ---
 
-## 📊 GitHub Analytics
+# 🛠 My Tech Arsenal
+
+## 🔥 Programming
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cpp,git,github,linux,vscode" />
+</p>
+
+---
+
+# 📊 GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=KhateebAlam&show_icons=true&theme=tokyonight" height="165"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=KhateebAlam&theme=tokyonight" height="165"/>
 </p>
 
----
-
-## 💻 Tech Stack
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,git,github,linux,vscode" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KhateebAlam&theme=tokyo-night" />
 </p>
 
 ---
 
-## 🎯 2026 Goals
+# 🏆 LeetCode Progress
 
-- Solve 500+ DSA Problems
-- Crack Top Internship
-- Contribute to Open Source
-- Build Scalable Backend Projects
+![LeetCode Stats](https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Baloo&ext=contest)
+
+---
+
+# 🚀 Featured Journey
+
+## 📘 Data Structures & Algorithms Repository
+
+Daily DSA problem solving in C++  
+Strong focus on:
+
+- Arrays
+- Recursion
+- Searching & Sorting
+- Time & Space Complexity
+- Pattern Logic Building
+
+---
+
+# 🔥 Current Mission
+
+- 📈 500+ DSA problems
+- 🧠 Master complexity analysis
+- 💼 Become interview-ready engineer
+- 🏗 Build scalable backend systems
+
+---
+
+# 📬 Connect With Me
+
+- 🔗 GitHub: https://github.com/KhateebAlam
+- 💼 LinkedIn: (Add here)
+- 📧 Email: (Add professional email)
+
+---
+
+<p align="center">
+  ⚡ "Consistency beats intensity."
+</p>
