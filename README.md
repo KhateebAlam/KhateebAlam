@@ -82,8 +82,8 @@ Strong focus on:
 # 📬 Connect With Me
 
 - 🔗 GitHub: https://github.com/KhateebAlam
-- 💼 LinkedIn: (Add here)
-- 📧 Email: (Add professional email)
+- 💼 LinkedIn:https://www.linkedin.com/in/khateeb-alam-908ba71b9/
+- 📧 Email: khansohail19115181@gmail.com
 
 ---
 
