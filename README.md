@@ -84,29 +84,25 @@ I am committed to 📈 long-term growth, continuous improvement, and becoming a 
 - Pattern Logic Building
 
 ---
-
 # 📊 Skill Proficiency
 
-### 💻 Full Stack Development
-██████████░░░░░░░░ 60%
-
+### 🚀 Problem Solving
+![Problem Solving](https://img.shields.io/badge/Problem%20Solving-60%25-blue?style=for-the-badge)
 
 ### 🧠 Data Structures & Algorithms
+![DSA](https://img.shields.io/badge/DSA-55%25-purple?style=for-the-badge)
 
-████████████░░░░░░ 75%
-
+### 💻 Full Stack Development
+![Full Stack](https://img.shields.io/badge/Full%20Stack-60%25-green?style=for-the-badge)
 
 ### ⚙ Backend Development
-
-█████████░░░░░░░░░ 55%
-
-
-### 🚀 Problem Solving
-
-█████████████░░░░░ 80%
-
+![Backend](https://img.shields.io/badge/Backend-55%25-orange?style=for-the-badge)
 
 ---
+![Problem Solving](https://progress-bar.dev/60/?title=Problem%20Solving)
+![DSA](https://progress-bar.dev/75/?title=DSA)
+![Full Stack](https://progress-bar.dev/60/?title=Full%20Stack)
+![Backend](https://progress-bar.dev/55/?title=Backend)
 
 # 📚 Currently Learning
 
