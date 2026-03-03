@@ -35,10 +35,6 @@ I am committed to 📈 long-term growth, continuous improvement, and becoming a 
 - 💻 Writing clean & optimized C++ code  
 - 🛠 Learning backend & system design
 
----
-
-# 🛠 My Arsenal of Tools & Technologies
----
 
 # 🛠 My Arsenal of Tools & Technologies
 
@@ -92,6 +88,34 @@ I am committed to 📈 long-term growth, continuous improvement, and becoming a 
 # 📊 Skill Proficiency
 
 ### 💻 Full Stack Development
+██████████░░░░░░░░ 60%
+
+
+### 🧠 Data Structures & Algorithms
+
+████████████░░░░░░ 75%
+
+
+### ⚙ Backend Development
+
+█████████░░░░░░░░░ 55%
+
+
+### 🚀 Problem Solving
+
+█████████████░░░░░ 80%
+
+
+---
+
+# 📚 Currently Learning
+
+- 🔥 Advanced Data Structures
+- 🏗 System Design Basics
+- ⚡ Backend Performance Optimization
+- 🧩 Scalable Architecture Patterns
+- 🏆 Competitive Programming Techniques
+
 ---
 
 # 📊 GitHub Analytics
