@@ -99,10 +99,6 @@ I am committed to 📈 long-term growth, continuous improvement, and becoming a 
 ![Backend](https://img.shields.io/badge/Backend-55%25-orange?style=for-the-badge)
 
 ---
-![Problem Solving](https://progress-bar.dev/60/?title=Problem%20Solving)
-![DSA](https://progress-bar.dev/75/?title=DSA)
-![Full Stack](https://progress-bar.dev/60/?title=Full%20Stack)
-![Backend](https://progress-bar.dev/55/?title=Backend)
 
 # 📚 Currently Learning
 
