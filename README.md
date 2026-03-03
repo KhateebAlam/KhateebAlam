@@ -8,12 +8,12 @@
 
 # ✨ Who Am I?
 
-Hey there 👋    
- ## 👨‍💻 About Me
-
 Hey there 👋  
+
 I'm **Khateeb Alam**, a 🎓 Computer Science student and 💻 Full Stack Developer with a strong passion for building robust software systems and mastering the core principles of **Data Structures & Algorithms**.
+
 🚀 My journey in technology is driven by a deep focus on fundamentals. I firmly believe that strong DSA knowledge forms the backbone of every great software engineer. Alongside my academic learning, I actively practice and teach Data Structures & Algorithms, helping others strengthen their problem-solving abilities while continuously refining my own understanding.
+
 🌐 As a Full Stack Developer, I build scalable and efficient web applications using modern technologies across both frontend and backend. I enjoy designing clean architectures 🏗, writing maintainable code ✨, and developing systems that are not only functional but also optimized for performance ⚡.
 
 ### 🎯 My Core Focus Areas:
