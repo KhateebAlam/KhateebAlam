@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:203a43&height=230&section=header&text=Khateeb%20Alam&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Building%20the%20Future%20with%20Code&descAlignY=55&descAlign=50"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:203a43&height=220&section=header&text=Khateeb%20Alam&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Building%20the%20Future%20with%20Code&descAlignY=55&descAlign=50"/>
 </p>
  <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Khateeb+Alam;Full+Stack+Developer;Learning+DSA+%7C+Problem+Solver;Clean+Code+%7C+Scalable+Systems;Consistency+Over+Motivation;Building+the+Future+with+Code" />
