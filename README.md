@@ -145,9 +145,7 @@ Strong focus on:
 - 📈 500+ DSA problems
 - 🧠 Master complexity analysis
 - 💼 Become interview-ready engineer
-- 🏗 Build scalable backend systems
-
----
+- 🏗 Build scalable backend system---
 
 # 📬 Connect With Me
 
